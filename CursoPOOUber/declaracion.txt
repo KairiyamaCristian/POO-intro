@@ -1,0 +1,33 @@
+Java
+Person person = new Person();
+
+Javascript
+var person = new Person();
+
+PHP
+$person = new Person();
+
+python
+person = Person()
+
+Metodo Constructor 
+-Dar un estado inicial al objeto
+
+Java 
+Public Person (String name){
+    This.name = name;
+}
+
+Javascript
+function Person(name){
+    This.name = name
+}
+
+PHP
+Public function_construct($name){
+    $this->name=name;
+}
+
+python
+def__init__(self, name):
+self.name = name
